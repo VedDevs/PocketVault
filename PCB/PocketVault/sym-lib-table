@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XIAO_RP2040")(type "KiCad")(uri "G:/StarDance/WebOS/assets/kicad_care_package/kicad_care_package/XIAO_RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "SSD1306-128x64_OLED")(type "Legacy")(uri "G:/StarDance/WebOS/assets/KiCad-SSD1306-128x64-master/KiCad-SSD1306-128x64-master/library/SSD1306-128x64_OLED.lib")(options "")(descr ""))
+)
