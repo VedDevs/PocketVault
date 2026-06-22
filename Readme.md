@@ -48,7 +48,10 @@ A Password manager that fits in your pocket powered by the Seeed Studio XIAO RP2
 
 ---
 ## PCB
+
 This was my first PCB so please look carefully for problems (If you find some please email me).
+
+
 ![](assests/3d.png)
 ![](assests/pcb-b.png)
 ![](assests/pcb-f.png)
