@@ -5,7 +5,7 @@ Perfboard Prototype,"SSD1306 OLED Display (128×32, I2C)",1,Display Module,489,h
 Perfboard Prototype,KY-040 Rotary Encoder,1,Navigation Input,131,https://amzn.in/d/03GvdTSO
 Perfboard Prototype,Perfboard,1,Making meanwhile PCB,121,https://amzn.in/d/05X3hMPs
 Perfboard Prototype,Pin Headers,--,Connections,100,https://amzn.in/d/0fD0QsFy
-Perfboard Prototype,Total,,,2000,
+Perfboard Prototype,Total,,,1960,
 
 Enclosure Prototype,Seeed Studio XIAO RP2040,1,Main Microcontroller,618,
 Enclosure Prototype,"SSD1306 OLED Display (128×64, I2C)",1,Display Module,499,
@@ -15,4 +15,4 @@ Enclosure Prototype,M2 Screws,4,Enclosure Assembly,20,
 Enclosure Prototype,Pin Headers,--,Connections,100,
 Enclosure Prototype,3D Printed Enclosure,1,Device Housing,"120 + Shipping",
 Enclosure Prototype,Custom PocketVault PCB,1,Main PCB,100,
-Enclosure Prototype,Total,,,2000,
+Enclosure Prototype,Total,,,2099,
