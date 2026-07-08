@@ -1,10 +1,10 @@
-Section,Item,Qty,Description,ApproxPriceINR
-Perfboard Prototype,Seeed Studio XIAO RP2040,1,Main Microcontroller,618
-Perfboard Prototype,"SSD1306 OLED Display (128×64, I2C)",1,Display Module,499
-Perfboard Prototype,"SSD1306 OLED Display (128×32, I2C)",1,Display Module,489
-Perfboard Prototype,KY-040 Rotary Encoder,1,Navigation Input,131
-Perfboard Prototype,Perfboard,1,Making meanwhile PCB,121
-Perfboard Prototype,Pin Headers,--,Connections,100
+Section,Item,Qty,Description,ApproxPriceINR,Source
+Perfboard Prototype,Seeed Studio XIAO RP2040,1,Main Microcontroller,618,https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWfCq-4r9X1IylBE2e27cShVI&gclid=CjwKCAjwx7LSBhB3EiwAjcodxFEy9cg7-wKnoAPYfVbvbX_pwUoPoxmwW4C3PmFchUcZYI_UiTrxPBoCCAcQAvD_BwE
+Perfboard Prototype,"SSD1306 OLED Display (128×64, I2C)",1,Display Module,499,https://amzn.in/d/0gyfDmF9
+Perfboard Prototype,"SSD1306 OLED Display (128×32, I2C)",1,Display Module,489,https://amzn.in/d/0gyfDmF9
+Perfboard Prototype,KY-040 Rotary Encoder,1,Navigation Input,131,https://amzn.in/d/03GvdTSO
+Perfboard Prototype,Perfboard,1,Making meanwhile PCB,121,https://amzn.in/d/05X3hMPs
+Perfboard Prototype,Pin Headers,--,Connections,100,https://amzn.in/d/0fD0QsFy
 Total,,,,2000
 
 Enclosure Prototype,Seeed Studio XIAO RP2040,1,Main Microcontroller,618
