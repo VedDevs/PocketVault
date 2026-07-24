@@ -104,18 +104,8 @@ pio run -t upload
 
 ---
 
-## Roadmap
+## 0.91" OLED display Variant on a Perfboard
 
-* [x] PCB Design
-* [x] Enclosure CAD
-* [x] Firmware Project Setup
-* [ ] OLED Interface
-* [ ] Encoder Driver
-* [ ] USB HID Support
-* [ ] Master PIN System
-* [ ] Encrypted Storage
-* [ ] Prototype Assembly
-* [ ] V1 Release
 
 ---
 
