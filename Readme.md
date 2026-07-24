@@ -104,8 +104,9 @@ pio run -t upload
 
 ---
 
-## 0.91" OLED display Variant on a Perfboard
-![0.91" Oled Model] (https://user-cdn.hackclub-assets.com/019f947d-7138-75cd-962f-e3e4b7d8bb64/IMG_5829.jpeg)
+## 0.91" OLED display Variant on Perfboard
+![0.91" Oled Model](https://user-cdn.hackclub-assets.com/019f947d-7138-75cd-962f-e3e4b7d8bb64/IMG_5829.jpeg)
+
 
 ---
 
